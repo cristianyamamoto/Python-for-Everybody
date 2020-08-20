@@ -1,0 +1,19 @@
+Regular Expressions (Chapter 11)
+
+    Regular expressions are a very specialized language that allow us to succinctly search strings and extract data from strings. Regular expressions are a language unto themselves. It is not essential to know how to use regular expressions, but they can be quite useful and powerful.
+
+    11.1 - Regular Expressions
+    11.2 - Extracting Data
+    Assignment - Extracting Data With Regular Expressions
+
+Networks and Sockets (Chapter 12)
+
+    In this section we learn about the protocols that web browsers use to retrieve documents and web applications use to interact with Application Program Interfaces (APIs).
+
+    12.1 - Networked Technology
+    12.2 - Hypertext Transfer Protocol (HTTP)
+    Using the Develpor Console to Explore HTTP
+    Assignment - Understanding the Request / Response Cycle
+
+Programs that Surf the Web (Chapter 12)
+    In this section we learn to use Python to retrieve data from web sites and APIs over the Internet.
