@@ -28,8 +28,18 @@ Programs that Surf the Web (Chapter 12)
 Web Services and XML (Chapter 13)
     In this section, we learn how to retrieve and parse XML (eXtensible Markup Language) data.
 
-    13.1 - Data on the Web (wire format / data to send across network / XML or JSON)
+    13.1 - Data on the Web (wire format / data to send across network / serialization / deserialization / XML or JSON)
     13.2 - eXtensible Markup Language (XML) (tags, content, attribute, self closing tag)
     13.3 - XML Schema (contract as to what is valid XML)
     13.4 - Parsing XML (intepretando XML)
     Assignment: Extracting Data from XML
+
+JSON and the REST Architecture (Chapter 13)
+    In this module, we work with Application Program Interfaces / Web Services using the JavaScript Object Notation (JSON) data format.
+
+    13.5 - JavaScript Object Notation (JSON) (object -> dictionary in Python, array -> list in Python)
+    13.6 - Service Oriented Approach (Applications that use services from other applications / Services publish "rules" for applications to follow (API))
+    13.7 - Using Application Programming Interfaces (Using Google geocode API)
+    13.8 - Securing API Requests (Twitter API example)
+    Assignment: Extracting Data from JSON
+    Assignment: Using the GeoJSON API
