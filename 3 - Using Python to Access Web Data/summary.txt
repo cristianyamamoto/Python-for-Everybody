@@ -4,7 +4,7 @@ Regular Expressions (Chapter 11)
 
     11.1 - Regular Expressions
     11.2 - Extracting Data
-    Assignment - Extracting Data With Regular Expressions
+    Assignment: Extracting Data With Regular Expressions
 
 Networks and Sockets (Chapter 12)
 
@@ -13,7 +13,23 @@ Networks and Sockets (Chapter 12)
     12.1 - Networked Technology
     12.2 - Hypertext Transfer Protocol (HTTP)
     Using the Develpor Console to Explore HTTP
-    Assignment - Understanding the Request / Response Cycle
+    Assignment: Understanding the Request / Response Cycle
 
 Programs that Surf the Web (Chapter 12)
     In this section we learn to use Python to retrieve data from web sites and APIs over the Internet.
+
+    12.3 - Unicode Characters and Strings (strings unicode -> bytes UTF-8 -> socket)
+    12.4 - Retrieving Web Pages (urllib library)
+    12.5 - Parsing Web Pages (BeautifulSoup library)
+    Using urllib and BeautifulSoup to retrieve Web Pages content
+    Assignment: Scraping Numbers from HTML using BeautifulSoup
+    Assignment: Following Links in HTML Using BeautifulSoup
+
+Web Services and XML (Chapter 13)
+    In this section, we learn how to retrieve and parse XML (eXtensible Markup Language) data.
+
+    13.1 - Data on the Web (wire format / data to send across network / XML or JSON)
+    13.2 - eXtensible Markup Language (XML) (tags, content, attribute, self closing tag)
+    13.3 - XML Schema (contract as to what is valid XML)
+    13.4 - Parsing XML (intepretando XML)
+    Assignment: Extracting Data from XML
